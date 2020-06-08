@@ -1,2 +1,2 @@
 # kalaha
-kalaha gamea
+kalaha game
